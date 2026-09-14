@@ -17,8 +17,9 @@ Once you have all of them, give them values and proper naming, make sure you hav
 
 Example:
 
-local Buttons = {Button1 = {Price = 0;Id = 1;
 
+local Buttons = {Button1 = {Price = 0;
+    Id = 1;
     ButtonPart = Workspace.FloorButton1;
     NextButtonUnlock = Workspace.WallButton1;
 };
